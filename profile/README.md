@@ -1,6 +1,9 @@
+
+![Oracle Logo](https://github.com/oracle-actions/.github/blob/readme-upd/profile/OGHO%20banner%20-%20GH%20actions.png?raw=true "Open source at Oracle. Everyone is invited. Let's collaborate together")
+
 # GitHub Actions from Oracle
 
-These GitHub Actions have been designed and developed by Oracle to enable you to integration your GitHub workflows with Oracle Cloud Infrastructure services and Oracle products.
+These GitHub Actions have been designed and developed by Oracle to enable you to integrate your GitHub workflows with Oracle Cloud Infrastructure services and Oracle products.
 
 ## Get Started
 

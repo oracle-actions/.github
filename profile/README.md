@@ -16,7 +16,6 @@ These GitHub Actions have been designed and developed by Oracle to enable you to
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
-* [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
 * [Oracle Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on OCI
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications
 * [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning cloud resources

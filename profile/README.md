@@ -1,5 +1,5 @@
 
-![Oracle Logo](https://github.com/oracle-actions/.github/blob/readme-upd/profile/OGHO%20banner%20-%20GH%20actions.png?raw=true "Open source at Oracle. Everyone is invited. Let's collaborate together")
+![Oracle Logo](https://github.com/oracle-actions/.github/raw/readme-upd/profile/OGHO%20banner%20-%20GH%20actions.png?raw=true "Open source at Oracle. Everyone is invited. Let's collaborate together")
 
 # GitHub Actions from Oracle
 

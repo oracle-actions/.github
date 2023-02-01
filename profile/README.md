@@ -15,9 +15,12 @@ These GitHub Actions have been designed and developed by Oracle to enable you to
 
 * [Oracle](https://github.com/oracle) – the main Oracle GitHub organization
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
+* [Helidon](https://github.com/helidon-io) – cloud-native set of Java libraries for writing microservices
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
+* [LiveLabs](https://github.com/oracle-livelabs) – workshops for building and deploying applications using Oracle's technologies
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
+* [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
 * [Oracle Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on OCI
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications
